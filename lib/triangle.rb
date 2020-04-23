@@ -35,6 +35,4 @@ class TriangleError < StandardError
   
 end
 
-a = Triangle.new(5, 5, 5)
-a.kind
 
